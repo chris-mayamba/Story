@@ -1,0 +1,3 @@
+//First chapter
+
+bonjour le monde je m'appelle Christian Mayamba je suis étudiant en informatique à salama j'apprend javascript, notamment le framework node.js.
