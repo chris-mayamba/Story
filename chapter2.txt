@@ -1,2 +1,4 @@
 // Second chapter
 Après avoir perfectionné mes competences en nodeJs et en expressJs je compte m'attaquer à Django qui est un framework python
+
+Après avoir perfectionné mes competences en nodeJs et en expressJs je compte m'attaquer à Django qui est un framework python
